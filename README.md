@@ -2,7 +2,8 @@ Requirements:
 ffmpeg,
 meson,
 gcc,
-ninja
+ninja,
+gtkmm4.0-devel
 
 ```bash
 git clone https://github.com/RegalityBreach/sway-bg-editor
