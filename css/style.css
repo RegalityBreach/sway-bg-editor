@@ -1,0 +1,73 @@
+.header-label {
+	padding: 15px 0;
+	box-shadow: 0px 0px 10px 10px rgba(0,0,0,0.2);
+	background-image: none;
+	background-color: #fff;
+	color: #000;
+}
+
+button {
+	background-image: none;
+	background-color: #fff;
+	color: #000;
+	border: 2px solid #fff;
+	border-radius: 10px;
+	transition: 0.5s;
+	box-shadow: 2px 0px 10px 5px rgba(0,0,0,0.2);
+}
+
+button:hover {
+	border: 2px solid #0a5fb5;
+	transition: 0.5s;
+}
+
+button:active {
+	background-color: #0a5fb5;
+	border: 2px solid #0a5fb5;
+	color: #fff;
+	transition: 0.1s;
+}
+
+.background-entry button {
+	margin-right: 15px;
+}
+
+.background-entry image {
+	margin-left: 15px;
+}
+
+.background-entry {
+	background-image: none;
+	background-color: #fff;
+	box-shadow: 2px 0px 5px 3px rgba(0,0,0,0.2);
+	margin: 10px 0;
+	border-radius: 10px;
+	color: #000;
+}
+
+.singular-bel {
+	padding: 20px 0px;
+}
+
+.background-entry:last-child {
+	margin-bottom: 0;
+}
+
+.scroll-frame {
+	margin-top: 40px;
+	border-radius: 0;
+	background-image: none;
+	background-color: #fff;
+	border: none;
+}
+
+.folder-selector {
+	box-shadow: 0px 0px 10px 10px rgba(0,0,0,0.2);
+	background-image: none;
+	background-color: #fff;
+}
+
+.folder-selector button {
+	margin: 5px;
+	box-shadow: 0px 0px 5px 3px rgba(0,0,0,0.2);
+}
